@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
+<rect width="1200" height="1200" fill="#ffffff"/>
+<rect width="1200" height="300" fill="#eef3f8"/><rect width="1200" height="16" fill="#2d5f96"/>
+<text x="80" y="104" font-size="25" font-weight="600" fill="#4f6b91" letter-spacing="3">DEPOSIT COVER · 保障覆盖与集中敞口对账</text>
+<text x="80" y="188" font-size="60" font-weight="700" fill="#22344e">存款保障对账台</text>
+<text x="80" y="246" font-size="25" fill="#5a6d84">按「同一存款人 + 同一法人机构」合并 → 每组按限额封顶 → 覆盖率 / 敞口 / 还要几家机构</text>
+
+<text x="80" y="404" font-size="24" fill="#5a6d84">存款类 ¥1,305,000 里，在限额之内的部分</text>
+<text x="80" y="484" font-size="78" font-weight="700" fill="#22344e">¥1,205,000</text>
+<text x="80" y="530" font-size="24" fill="#5a6d84">存款类覆盖率 <tspan font-weight="700" fill="#2b6b4f">92.34%</tspan> · 全口径覆盖率 <tspan font-weight="700">68.66%</tspan> · 保障之外 <tspan font-weight="700" fill="#a23b28">¥100,000</tspan></text>
+
+<text x="80" y="608" font-size="23" font-weight="600" fill="#22344e">本人 @ 甲银行</text>
+<rect x="330" y="588" width="790" height="26" fill="#e8eef7"/>
+<rect x="330" y="588" width="669.5" height="26" fill="#2b6b4f"/>
+<rect x="999.5" y="588" width="120.5" height="26" fill="#a23b28"/>
+<text x="330" y="636" font-size="20" fill="#5a6d84">合计 ¥590,000 · 受保 ¥500,000 · <tspan fill="#a23b28">敞口 ¥90,000</tspan></text>
+<text x="80" y="700" font-size="23" font-weight="600" fill="#22344e">本人 @ 乙银行</text>
+<rect x="330" y="680" width="790" height="26" fill="#e8eef7"/>
+<rect x="330" y="680" width="669.5" height="26" fill="#2b6b4f"/>
+<rect x="999.5" y="680" width="13.4" height="26" fill="#a23b28"/>
+<text x="330" y="728" font-size="20" fill="#5a6d84">合计 ¥510,000 · 受保 ¥500,000 · <tspan fill="#a23b28">敞口 ¥10,000</tspan></text>
+<text x="80" y="792" font-size="23" font-weight="600" fill="#22344e">配偶 @ 乙银行</text>
+<rect x="330" y="772" width="790" height="26" fill="#e8eef7"/>
+<rect x="330" y="772" width="274.5" height="26" fill="#2b6b4f"/>
+<text x="330" y="820" font-size="20" fill="#5a6d84">合计 ¥205,000 · 受保 ¥205,000 · <tspan fill="#2b6b4f">全额在内</tspan></text>
+
+<text x="80" y="962" font-size="29" font-weight="700" fill="#22344e">要点</text>
+<text x="80" y="1004" font-size="22" fill="#4d6076">· 同一机构的多笔合并成一份额度：本人 @ 甲银行 的 2 笔合成 ¥590,000，超出 ¥90,000</text>
+<text x="80" y="1045" font-size="22" fill="#4d6076">· 利息也占额度：本人 @ 乙银行 本金 ¥480,000 没超，加上 ¥30,000 利息就超了 ¥10,000</text>
+<text x="80" y="1086" font-size="22" fill="#4d6076">· 额度按人算：配偶名下还有 ¥295,000 空额度，但不能挪给本人用——本人还需新开 1 家机构</text>
+<text x="80" y="1127" font-size="22" fill="#4d6076">· 不在保障范围内的还有 ¥450,000（银行理财 / 基金 / 保险），占全部资产的 25.6%</text>
+
+<rect y="1140" width="1200" height="60" fill="#eef3f8"/>
+<text x="80" y="1178" font-size="20" fill="#7b8ca0">存款保障对账台 V1.0.0 · 数字来自同一次计算 · 限额与金额由用户填写，页面不联网、不评价任何机构安全性</text>
+</svg>
